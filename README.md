@@ -1,9 +1,9 @@
 ## Scheming With Machines - BSidesLV 2019
 
-+ Talk link: [Scheming with Machines](https://www.youtube.com/watch?v=XfT0Ju4vhvI&feature=youtu.be&t=19126)
-+ Tool/Demo links: [Deep-Drop](https://github.com/MoooKitty/Deep-Drop), [Op-Bot](https://github.com/MoooKitty/Op-Bot), [Cmd-Recs](https://github.com/MoooKitty/Cmd-Recs)
++ [Slides](https://github.com/MoooKitty/Talks/blob/master/slides/Scheming_with_Machines_BSidesLV_19.pdf), [Talk](https://www.youtube.com/watch?v=XfT0Ju4vhvI&feature=youtu.be&t=19126)
++ [Deep-Drop](https://github.com/MoooKitty/Deep-Drop), [Op-Bot](https://github.com/MoooKitty/Op-Bot), [Cmd-Recs](https://github.com/MoooKitty/Cmd-Recs)
 
 ## 42: The Answer to Life the Universe, and Everything Offensive Security - Derby Con 2019
 
-+ Talk link:
-+ Tool/Demo links: 
++ [Slides](https://github.com/MoooKitty/Talks/blob/master/slides/DerbyCon19_42.pdf), [Talk](https://www.youtube.com/watch?v=CsvkYoxtexQ)
++ [Proof-Pudding]()
