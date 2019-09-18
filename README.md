@@ -5,5 +5,5 @@
 
 ## 42: The Answer to Life the Universe, and Everything Offensive Security - Derby Con 2019
 
-+ [Slides](https://github.com/moohax/Talks/blob/master/slides/DerbyCon19_42.pdf) (by [@monoxgas](https://twitter.com/monoxgas)), [Talk](https://www.youtube.com/watch?v=CsvkYoxtexQ)
-+ TBD 
++ [Slides](https://github.com/moohax/Talks/blob/master/slides/DerbyCon19.pdf) (by [@monoxgas](https://twitter.com/monoxgas)), [Talk](https://www.youtube.com/watch?v=CsvkYoxtexQ)
++ [Proof Pudding](https://github.com/moohax/Proof-Pudding)
