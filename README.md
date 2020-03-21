@@ -7,3 +7,7 @@
 
 + [Slides](https://github.com/moohax/Talks/blob/master/slides/DerbyCon19.pdf) (by [@monoxgas](https://twitter.com/monoxgas)), [Talk](https://www.youtube.com/watch?v=CsvkYoxtexQ)
 + [Proof Pudding](https://github.com/moohax/Proof-Pudding)
+
+## It Is The Year 2000, We Are Robots
+
++ [Slides](https://github.com/moohax/Talks/blob/master/slides/bsides_slc_20.pdf)
