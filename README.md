@@ -1,3 +1,9 @@
+
+## Zen and the Art of Adversarial Machine Learning
+### Blackhat EU '21
++ [Slides](https://github.com/moohax/Talks/blob/master/slides/Blackhat_EU_21.pdf)
++ With Giorgio Severi [@cloned_tweets](https://twitter.com/cloned_tweets)
+
 ## Screendoors on Battleships
 ### Wild West Hackin' Fest '21
 + [Slides](https://github.com/moohax/Talks/blob/master/slides/Screen%20Doors%20on%20Battleships.pdf)
