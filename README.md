@@ -1,7 +1,7 @@
 
 ## Zen and the Art of Adversarial Machine Learning
 ### Blackhat EU '21
-+ [Slides](https://github.com/moohax/Talks/blob/master/slides/Blackhat_EU_21.pdf)
++ [Slides](https://github.com/moohax/Talks/blob/master/slides/Blackhat_EU_21.pdf), [Talk](https://www.youtube.com/watch?v=tEBwMGCKEso&ab_channel=BlackHat)
 + With Giorgio Severi [@cloned_tweets](https://twitter.com/cloned_tweets)
 
 ## Screendoors on Battleships
@@ -13,7 +13,7 @@
 
 ## Counterfit: Attacking Machine Learning in Blackbox Settings
 ### Blackhat Arsenal '21
-+ [Slides](https://github.com/moohax/Talks/blob/master/slides/Counterfit_BH_Arsenal_21.pdf)
++ [Slides](https://github.com/moohax/Talks/blob/master/slides/Counterfit_BH_Arsenal_21.pdf), [Same talk](https://www.youtube.com/watch?v=joniiW-gPqQ)
 + [Counterfit](https://github.com/Azure/counterfit)
 
 ## It Is The Year 2000, We Are Robots
